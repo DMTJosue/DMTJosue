@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/JoshuaMatha?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/JoshuaMatha?s=09logo=twitter&style=for-the-badge" alt="JoshuaMatha?s=09"  </p>
 
-- 🔭 I’m currently learning in **ECPI Dakar**
+- 🔭 I’m currently learning in **<a href="https://ecpi-edu.com/" target="blank">ECPI Dakar**</a>
 
 - 🌱 I’m currently learning **DevOps**
 
