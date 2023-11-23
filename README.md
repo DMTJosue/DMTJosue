@@ -1,12 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Josué DA-MATHA! </h1>
-<h2 align="center"> Welcome to my Github profile  </h2>
-<h3 align="center">A passionate FullStack Developer from Benin</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Josu%C3%A9+DA-MATHA!;A+passionate+FullStack+Developer+;from+Benin">
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DMTJosue&label=Profile%20views&color=0e75b6&style=flat" alt="DMTJosue" /> </p>
 
-<p align="left"> <a href="https://twitter.com/JoshuaMatha?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/JoshuaMatha?s=09logo=twitter&style=for-the-badge" alt="JoshuaMatha?s=09"  </p>
+
 
 - 🔭 I’m currently learning in **<a href="https://ecpi-edu.com/" target="blank">ECPI Dakar**</a>
 
