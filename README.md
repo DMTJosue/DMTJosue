@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently learning **DevOps** in **<a href="https://ecpi-edu.com/" target="blank">ECPI Dakar**</a>
+- 🔭 I’m currently learning **DevOps**
 
 - 📫 How to reach me **mathieudamatha@gmail.com**
 
