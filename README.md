@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently learning **DevOps**
+- 🔭 I’m currently learning **Intelligent Robotic System & AI**
 
 - 📫 How to reach me **mathieudamatha@gmail.com**
 
